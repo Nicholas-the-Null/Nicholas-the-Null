@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Nicholas-the-Null/Nicholas-the-Null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... nothing
 - 📫 How to reach me: ... secret
 - ⚡ Fun fact: ... my cat is fat
--->
+
