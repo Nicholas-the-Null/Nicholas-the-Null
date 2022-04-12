@@ -8,4 +8,5 @@
 - 💬 Ask me about ... nothing
 - 📫 How to reach me: ... secret
 - ⚡ Fun fact: ... my cat is fat
+- 🗺️ Language: Italian, Portuguese, English, Spanish
 
